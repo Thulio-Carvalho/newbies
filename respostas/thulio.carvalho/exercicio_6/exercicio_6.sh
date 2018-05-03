@@ -15,5 +15,5 @@ do
 done
 
 if [[ "$SAFE" = false ]]; then
-	echo "Diretório Inseguro!"
+	echo "DIRETORIO INSEGURO"
 fi	
